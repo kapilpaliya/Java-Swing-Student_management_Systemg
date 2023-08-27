@@ -122,10 +122,6 @@ public class User_Login extends JFrame implements ActionListener {
             }
         }
     }
-
-    public static void main(String[] args) {
-        new User_Login();
-    }
 }
 
 
