@@ -53,7 +53,7 @@ public class Main{
                     timer.stop();
                 }
                 else{
-                    pb.setValue(x+1);
+                    pb.setValue(x+4);
                 }
             }
         });
